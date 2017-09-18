@@ -14,11 +14,11 @@ $ npm run bundle-meteor-client
 
 ### How to serve the app in development:
 
-You will have to run the meteor server and Ionic serve together
-
+Serve the backend
 ```bash
 $ npm run api
 ```
+Serve the frontend
 ```bash
 $ ionic serve
 ```
