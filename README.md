@@ -8,7 +8,7 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 
 ```bash
 $ sudo npm install -g meteor-client-bundler
-$ npm run bundle-meteor client 
+$ npm run bundle-meteor-client 
 ```
 
 
